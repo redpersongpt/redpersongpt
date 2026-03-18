@@ -1,19 +1,28 @@
-<p align="center">
-  <a href="https://redcore-ocr.cloud">redcore-ocr.cloud</a>
-</p>
+# Welcome to my profile
 
-<h1 align="center">REDCORE OCR</h1>
+AtaTuncBilge | [X](https://x.com/redpersongpt) | [GitHub](https://github.com/AtaTuncBilge)
 
-<p align="center">
-  <strong>OCR tool</strong>
-</p>
+---
 
-<p align="center">
-  Local-first OCR for PDFs and images. Fast, simple, no uploads.
-</p>
+## macOS One-Click
+[macos-install.one](https://macos-install.one)
 
-<p align="center">
-  <a href="https://redcore-ocr.cloud">Open</a>
-  ·
-  <a href="https://github.com/AtaTuncBilge/redcore-ocr">Repository</a>
-</p>
+Automated utility for deploying macOS on PC hardware. Handles hardware analysis, OpenCore synthesis, and direct recovery image streaming from Apple.
+
+- Hardware-tuned config.plist generation.
+- Integrated BIOS restart functionality.
+- Resumable download system with byte-offset tracking.
+- SecureBoot and Vault configuration.
+
+<img src="assets/landing.png" width="100%">
+
+---
+
+## REDCORE OCR
+[redcore-ocr.cloud](https://redcore-ocr.cloud)
+
+Privacy-focused OCR tool. Processes PDFs and images locally in the browser. No data leaves the machine.
+
+---
+
+[Star History](https://star-history.com/#AtaTuncBilge/macOS-One-Click)
