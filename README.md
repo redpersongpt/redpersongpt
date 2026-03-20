@@ -1,41 +1,71 @@
-# Welcome
+# redpersongpt
 
-
-  <img src="https://komarev.com/ghpvc/?username=redpersongpt&color=green&style=for-the-badge&label=visitors" height="30">
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=redpersongpt&color=green&style=for-the-badge&label=visitors"
+    height="30"
+    alt="Profile visitors"
+  >
 </p>
 
----
+## Projects
 
-## macOS One-Click
-[macos-install.one](https://macos-install.one)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>macOS One-Click</h3>
+      <p>
+        <a href="https://macos-install.one">Site</a>
+        ·
+        <a href="https://github.com/redpersongpt/macOS-One-Click">Repo</a>
+        ·
+        <a href="https://github.com/redpersongpt/macOS-One-Click-Web">Web</a>
+      </p>
+      <p>Automated utility for deploying macOS on PC hardware.</p>
+      <a href="https://github.com/redpersongpt/macOS-One-Click-Web">
+        <img src="./image.png" alt="macOS One-Click" width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>REDCORE OCR</h3>
+      <p>
+        <a href="https://redcore-ocr.cloud">Site</a>
+        ·
+        <a href="https://github.com/redpersongpt/REDCORE-OCR">Repo</a>
+      </p>
+      <p>Privacy-focused OCR for PDFs and images. Runs locally in the browser.</p>
+      <a href="https://github.com/redpersongpt/REDCORE-OCR">
+        <img
+          src="https://raw.githubusercontent.com/redpersongpt/macOS-One-Click/main/image.png"
+          alt="REDCORE OCR"
+          width="100%"
+        >
+      </a>
+    </td>
+  </tr>
+</table>
 
-Automated utility for deploying macOS on PC hardware.
+## Stats
 
-- Automated hardware analysis and OpenCore synthesis.
-- Direct recovery image streaming from Apple.
-- Integrated BIOS restart functionality.
-- Resumable download system.
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=redpersongpt&show_icons=true&theme=dark&count_private=true&hide_border=true"
+        alt="GitHub stats"
+        width="100%"
+      >
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=redpersongpt&theme=dark&hide_border=true"
+        alt="GitHub streak"
+        width="100%"
+      >
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/redpersongpt/macOS-One-Click/main/imagecopy.png" width="600">
-
----
-
-## REDCORE OCR
-[redcore-ocr.cloud](https://redcore-ocr.cloud)
-
-Privacy-focused OCR tool. Processes PDFs and images locally in the browser. No data leaves the machine.
-
-<img src="https://raw.githubusercontent.com/redpersongpt/macOS-One-Click/main/image.png" width="600">
-
----
-
-### Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=redpersongpt&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redpersongpt&theme=dracula&hide_border=true" height="180">
+<p align="center">
+  <a href="https://star-history.com/#redpersongpt/macOS-One-Click">Star History</a>
 </p>
-
----
-
-[Star History](https://star-history.com/#redpersongpt/macOS-One-Click)
