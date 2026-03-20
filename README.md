@@ -18,8 +18,6 @@
         <a href="https://macos-install.one">Site</a>
         ·
         <a href="https://github.com/redpersongpt/macOS-One-Click">Repo</a>
-        ·
-        <a href="https://github.com/redpersongpt/macOS-One-Click-Web">Web</a>
       </p>
       <p>Automated utility for deploying macOS on PC hardware.</p>
       <a href="https://github.com/redpersongpt/macOS-One-Click-Web">
