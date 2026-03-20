@@ -19,7 +19,8 @@
         ·
         <a href="https://github.com/redpersongpt/macOS-One-Click">Repo</a>
       </p>
-      <p>Automated utility for deploying macOS on PC hardware.</p>
+      <p>· Automated utility for deploying macOS on PC hardware.</p>
+      <p>· Still WIP /p>
       <a href="https://github.com/redpersongpt/macOS-One-Click-Web">
         <img src="./image.png" alt="macOS One-Click" width="100%">
       </a>
@@ -31,7 +32,7 @@
         ·
         <a href="https://github.com/redpersongpt/REDCORE-OCR">Repo</a>
       </p>
-      <p>Privacy-focused OCR for PDFs and images. Runs locally in the browser.</p>
+      <p>· Privacy-focused OCR for PDFs and images. Runs locally in the browser.</p>
       <a href="https://github.com/redpersongpt/REDCORE-OCR">
         <img
           src="https://raw.githubusercontent.com/redpersongpt/macOS-One-Click/main/image.png"
