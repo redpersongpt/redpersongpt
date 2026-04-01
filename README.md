@@ -1,6 +1,6 @@
 <div align="center">
 
-# redcore
+# redcoreOS
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=redpersongpt&color=ff3b6d&style=for-the-badge&label=visitors" height="28" alt="Profile visitors" />
