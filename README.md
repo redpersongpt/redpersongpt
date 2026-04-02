@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://ouden.cc" target="_blank">
-  <img src="https://raw.githubusercontent.com/redpersongpt/oudenOS/main/image.png" alt="OudenOS" width="700" />
-</a>
-
 # OudenOS
 
 <p>
