@@ -1,20 +1,20 @@
 <div align="center">
 
-<a href="https://redcoreos.net" target="_blank">
-  <img src="https://raw.githubusercontent.com/redpersongpt/redcoreOS/main/image.png" alt="redcore OS" width="700" />
+<a href="https://ouden.cc" target="_blank">
+  <img src="https://raw.githubusercontent.com/redpersongpt/oudenOS/main/image.png" alt="OudenOS" width="700" />
 </a>
 
-# redcoreOS
+# OudenOS
 
 <p>
-  <a href="https://redcoreos.net"><img src="https://img.shields.io/badge/redcoreos.net-ff3b6d?style=for-the-badge&logo=windows&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/redpersongpt/redcoreOS/releases/latest"><img src="https://img.shields.io/github/v/release/redpersongpt/redcoreOS?style=for-the-badge&color=ff3b6d" alt="Release" /></a>
+  <a href="https://ouden.cc"><img src="https://img.shields.io/badge/ouden.cc-E8E8E8?style=for-the-badge&logo=windows&logoColor=000000" alt="Website" /></a>
+  <a href="https://github.com/redpersongpt/oudenOS/releases/latest"><img src="https://img.shields.io/github/v/release/redpersongpt/oudenOS?style=for-the-badge&color=E8E8E8&labelColor=111111" alt="Release" /></a>
 </p>
 
-Open-source Windows optimization. 250 actions.
+Open-source Windows optimization. 250+ reversible actions.
 
-**[redcoreos.net](https://redcoreos.net)** · **[Source Code](https://github.com/redpersongpt/redcoreOS)** · **[Download](https://github.com/redpersongpt/redcoreOS/releases/latest)**
+**[ouden.cc](https://ouden.cc)** · **[Source Code](https://github.com/redpersongpt/oudenOS)** · **[Download](https://github.com/redpersongpt/oudenOS/releases/latest)**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=redpersongpt&hide_border=true&background=1e1e22&ring=ff3b6d&fire=ff3b6d&currStreakLabel=f0f0f4&currStreakNum=f0f0f4&sideLabels=f0f0f4&sideNums=f0f0f4&dates=a0a0ac" alt="GitHub streak" width="320" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=redpersongpt&hide_border=true&background=000000&ring=E8E8E8&fire=E8E8E8&currStreakLabel=E8E8E8&currStreakNum=FFFFFF&sideLabels=999999&sideNums=E8E8E8&dates=666666" alt="GitHub streak" width="320" />
 
 </div>
